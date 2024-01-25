@@ -1,9 +1,13 @@
 project:
-  type: book
+  type: website
+  output-dir: docs
+
+#project:
+#  type: book
 
 book:
   title: "GEXSeq"
-  author: "Norah Jones"
+  author: "Shaojun Xie"
   date: "1/25/2024"
   chapters:
     - index.qmd
