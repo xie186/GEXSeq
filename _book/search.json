@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GEXSeq",
+    "section": "",
+    "text": "Preface\nIn the dynamic field of genomics, the advent of RNA sequencing (RNA-seq) has revolutionized our understanding of gene expression and regulation. As researchers delve into the vast landscape of biological information encoded in RNA molecules, the need for robust and effective methods for the analysis of RNA-seq data becomes increasingly critical.\nThis book aims to provide a comprehensive review of diverse methods employed in the analysis of RNA sequencing data. From the initial steps of pre-processing raw data to the advanced techniques for differential expression analysis and pathway enrichment, each chapter is crafted to illuminate a specific aspect of the analytical journey. We navigate through the intricacies of quality control, alignment, and quantification, ensuring a solid foundation for downstream analyses.\nFurthermore, we explore the nuances of experimental design and statistical approaches, recognizing the importance of robust methodologies in drawing meaningful biological insights. The rapidly evolving landscape of bioinformatics tools and resources is also addressed, offering readers a current perspective on the state-of-the-art in RNA-seq analysis.\nThis book is intended for a diverse audience, including bioinformaticians, computational biologists, molecular biologists, and anyone eager to deepen their understanding of RNA-seq data analysis. Whether you are a novice seeking an introduction to the field or an experienced researcher looking for the latest methodologies, this compilation strives to be a valuable resource.\nEach chapter is crafted by experts in the respective domains, ensuring a wealth of knowledge and practical insights. The goal is to empower readers with the skills and knowledge necessary to navigate the complexities of RNA-seq data, fostering a deeper appreciation for the biological stories embedded in the transcriptome.\nAs the landscape of genomics continues to unfold, this book serves as a guide through the ever-expanding realm of RNA-seq analysis methods. We hope it sparks curiosity, encourages exploration, and contributes to the collective understanding of the intricate tapestry woven by the language of RNA.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "In the realm of molecular biology and genomics, the advent of high-throughput sequencing technologies has ushered in a new era of understanding the intricacies of cellular processes. Among these technologies, RNA sequencing (RNA-seq) stands out as a powerful tool that enables the comprehensive exploration of the transcriptome—the complete set of RNA molecules in a cell.\nRNA-seq not only provides a snapshot of the expression levels of genes but also unravels the complexities of alternative splicing, non-coding RNAs, and other RNA species, shedding light on the nuanced regulatory mechanisms governing cellular functions. As researchers delve into the vast and dynamic landscape of RNA molecules, the need for robust and sophisticated methods for the analysis of RNA-seq data becomes increasingly paramount.\nThis book embarks on a journey to explore and dissect the myriad methods employed in the analysis of RNA sequencing data. From the foundational steps of preprocessing raw data to the intricate analyses of differential expression and functional enrichment, each chapter is designed to offer insights and practical guidance. The goal is to equip researchers, bioinformaticians, and molecular biologists with the tools and knowledge needed to extract meaningful biological information from RNA-seq experiments.\nThe challenges in RNA-seq analysis are multifaceted, ranging from handling technical artifacts to addressing biological variability. As such, this book covers a spectrum of topics, including data quality control, alignment algorithms, quantification methods, and statistical approaches for differential expression analysis. Special attention is given to the nuances of experimental design, ensuring that readers can navigate the complexities of their specific research questions.\nMoreover, in the rapidly evolving landscape of bioinformatics, the book addresses the latest developments in tools and resources, aiming to provide a current and comprehensive overview of the state-of-the-art in RNA-seq analysis. Each chapter is authored by experts in the field, offering a wealth of knowledge and practical insights based on their experiences and expertise.\nWhether you are a novice stepping into the world of RNA-seq analysis or an experienced researcher seeking advanced methodologies, this book is intended to be a valuable resource. By combining theoretical foundations with hands-on applications, we hope to bridge the gap between understanding the principles and effectively implementing them in real-world scenarios.\nAs we embark on this exploration of RNA-seq analysis methods, we invite readers to immerse themselves in the intricacies of the transcriptome. May this journey inspire curiosity, spark innovative approaches, and contribute to the collective advancement of our understanding of the language written in the RNA of life.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]
